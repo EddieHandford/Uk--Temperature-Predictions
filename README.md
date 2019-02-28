@@ -1,6 +1,12 @@
 # Uk--Temperature-Predictions
 Future predictions of Uk temperatures using historical data
 
+you will need to install the following : 
+
+-Pip install netcdf4
+
+
+
 
 
 How to use:
